@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Space Mono', monospace;
+}
+.btn{
+    padding: 14px;
+    width: 180px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FCB72B;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #ffff;
+    border-radius: 3px;
+    color: #FCB72B;
+    border:1px solid #FCB72B; 
+}
